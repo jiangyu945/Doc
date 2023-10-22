@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:01:34.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="OkSNd5ZSHVIroo9W4Y1P" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:04:53.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Pl40tFSL3jxN-GwWLCSr" version="22.0.6" type="github">
   <diagram name="第 1 页" id="ClyOsVzj6frhT0d5uaz9">
     <mxGraphModel dx="2420" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="SaRvt7RB1hY5MqPePfqr-40" value="&lt;div&gt;&lt;font color=&quot;#007fff&quot;&gt;&lt;b&gt;event_xxx_arrived&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="231" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SaRvt7RB1hY5MqPePfqr-41" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;service_register&lt;/li&gt;&lt;li&gt;&lt;div&gt;event_bind(&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;app_callback&lt;/font&gt;&lt;/b&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="SaRvt7RB1hY5MqPePfqr-41" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;service_register&lt;/li&gt;&lt;li&gt;&lt;div&gt;event_bind(&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;app_callback&lt;/font&gt;&lt;/b&gt;)&lt;/div&gt;&lt;/li&gt;&lt;li&gt;...&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="294" y="200" width="196" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SaRvt7RB1hY5MqPePfqr-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="SaRvt7RB1hY5MqPePfqr-34" value="&lt;font color=&quot;#b5739d&quot;&gt;&lt;b&gt;resp_data&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="652" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAjAbMaW2R_z1P-nCRgh-9" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Init()&lt;/li&gt;&lt;li&gt;&lt;div&gt;Add_handler&lt;/div&gt;&lt;/li&gt;&lt;li&gt;...&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="562" y="200" width="196" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
