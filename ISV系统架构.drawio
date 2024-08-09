@@ -67,7 +67,7 @@
         <mxCell id="UMj_73BemHP42ggLhkep-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="865.5" width="60" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="UMj_73BemHP42ggLhkep-38" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;VTT基础系统架构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="UMj_73BemHP42ggLhkep-38" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;ISV基础系统架构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="221.5" y="166" width="219" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xykwIqed0tvRFTMX-DGA-1" value="会话管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
