@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="oXnixAA93GfRqGJTgy4R">
+    <mxGraphModel dx="1425" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UMj_73BemHP42ggLhkep-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;点集“面拔模”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="415" y="30" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMj_73BemHP42ggLhkep-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=14.59;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="470" y="90" width="18.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="150" width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UMj_73BemHP42ggLhkep-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;dashed=1;dashPattern=8 8;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="bTSMVp5NpejguRN7bof7-7" vertex="1">
+          <mxGeometry width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;选择拔模面&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=8 8;" vertex="1" parent="bTSMVp5NpejguRN7bof7-7">
+          <mxGeometry x="27.129999999999995" y="40" width="105.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;选择拔模参考（边或面）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=8 8;" vertex="1" parent="bTSMVp5NpejguRN7bof7-7">
+          <mxGeometry x="148.88" y="40" width="122.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;拔模角度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bTSMVp5NpejguRN7bof7-7">
+          <mxGeometry x="27.379999999999995" y="120" width="105.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-4" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;最大容差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bTSMVp5NpejguRN7bof7-7">
+          <mxGeometry x="148.88" y="120" width="105.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-5" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;拔模方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bTSMVp5NpejguRN7bof7-7">
+          <mxGeometry x="271.13" y="120" width="105.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;指定脱模方向&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=8 8;" vertex="1" parent="bTSMVp5NpejguRN7bof7-7">
+          <mxGeometry x="277.63" y="40" width="122.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;输入参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="30" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=14.59;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="18.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-10" value="展示拔模效果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="435.75" y="425" width="90" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="390" as="sourcePoint" />
+            <mxPoint x="530" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="390" />
+              <mxPoint x="790" y="120" />
+              <mxPoint x="540" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;成功&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTSMVp5NpejguRN7bof7-18" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;失败&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="750" y="220" width="30" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
